@@ -11,3 +11,8 @@ Made in Stingray.
 
 <b>Trailer:</b>  
 [![Trailer](https://img.youtube.com/vi/mHHilDKfPKc/0.jpg)](https://www.youtube.com/watch?v=mHHilDKfPKc)
+
+
+<b>How to play:</b>  
+1. Download the folder.
+2. Run `Alchemists_Tower.exe`.
